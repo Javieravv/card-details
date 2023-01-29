@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "yarn dev"
+    "start": "railway run yarn dev"
   },
   "dependencies": {
     "react": "^18.2.0",
